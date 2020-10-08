@@ -1,2 +1,2 @@
 
-print("I love Chammii")
+print("I love Myself")
